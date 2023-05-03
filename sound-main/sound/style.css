@@ -1,18 +1,30 @@
 *{
     margin: 0;
     padding: 0;
-}
+ }
+    .cabecalho{
+            background-color: #b0d0d5;
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 30px 0;
+    }
+    .cabecalho-item{
+        display: inline-block;
+        padding: 0 25px;
+    }
+    .escola-imagem{
+        width: 25%;
+    }
+    .escola{
+background-image: linear-gradient(#284e51, #cocacd);
+color:white;
+display: flex;
+justify-
 
- .cabecalho{
-     background-color: #b0d0d5;
-     color: white;
-     display: flex;
-     justify-content: space-around;
-     align-items: center;
-     padding: 15px 0;
-}
-.cabecalho-item{
-    display: inline-block;
-    padding: 0 25px;
-}
-   
+
+
+
+
+    }
